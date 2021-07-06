@@ -1,0 +1,1 @@
+UPDATE Student SET Name = 'Dhruv' WHERE StudentID = 101;
